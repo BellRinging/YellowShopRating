@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "StarView",
+        "repositoryURL": "https://github.com/EnesKaraosman/StarView.git",
+        "state": {
+          "branch": null,
+          "revision": "cd25fda41f814a445b582642144935c11f7f5bd9",
+          "version": "1.0.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
